@@ -1,0 +1,38 @@
+body {
+    padding: 0;
+    margin: 0;
+}
+
+html,
+body,
+#map {
+    height: 100%;
+    width: 100vw;
+}
+
+.popup {
+    text-align: center;
+    max-width: fit-content;
+    max-height: fit-content;
+    opacity: 1.0;
+}
+
+.legend {
+    padding: 6px 8px;
+    background-color: rgba(255, 255, 255);
+    box-shadow: 0 0 15px rgba(77, 76, 76, 0.8);
+    border-radius: 5px;
+}
+
+.legend i {
+    width: 18px;
+    height: 18px;
+    float: left;
+    margin-right: 8px;
+    opacity: 0.9;
+}
+
+/*ensuring legend items are correctly aligned regardless of browser zoom level*/
+div.legend.leaflet-control br {
+    clear: both;
+}
