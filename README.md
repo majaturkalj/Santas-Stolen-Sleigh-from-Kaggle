@@ -6,5 +6,5 @@ The map shows Santa's gift points in Scotland. I have also created some silly gi
 In the spirit of holidays, this is definitely my silliest map so far. 
 
 Icon attribution:
-https://iconscout.com/icons/gift
+https://iconscout.com/icons/gift, 
 Alper Guzeler
